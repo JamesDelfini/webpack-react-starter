@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import MyImage from './assets/dog.jpg';
+import MyImage from './assets/DogCat.jpg';
 import './index.css';
 
 const App = () => {
